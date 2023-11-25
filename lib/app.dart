@@ -13,7 +13,7 @@ class Love extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.brown),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Memory Lane'),
+      home: const MyHomePage(title: 'Memory Lane        '),
     );
   }
 }
